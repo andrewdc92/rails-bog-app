@@ -6,5 +6,5 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Creature.create({name: "Luke Skywalker", description: "Savior of all!"})
-Creature.create({name: "Darth Vader", description: "Dark father"})
+Creature.create({name: "Luke Skywalker", description: "I bring peace to the Republic"})
+Creature.create({name: "Darth Vader", description: "LOL I have a secret for Luke!"})
