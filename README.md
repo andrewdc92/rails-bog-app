@@ -2,7 +2,11 @@
 
 ### Overview
 
-Everyone does blog apps. Now, you're going to work on a **bog app**. Researchers are collecting data on a local bog and need an app to quickly record field data.
+I definitely enjoyed this exercise because this is exactly the type of repition I feel is the most useful for where I'm at right now. 
+
+Granted I was not particuarly focused while working through it Friday afternoon and I had a few logistical hangups, but I developed a good rhytmn after that point. I still referenced the original README throughout the fourth run at times but I definitely feel that I developed a strong understanding for the respective route syntax in the controller. It was surprising to me how much faster I could work through the app. It took me 2 hours and 17 minutes the first time around in class and I just finished the fourth go-around in 49 minutes!
+
+My advice for someone else who was working on this would be to take your time graciously the first two times around and pay attention to the logic that makes the routes and controllers work in their RESTful fashion. It makes the muscle memory for stage 4 more towards unconscious instead of needing external reference. 
 
 ### Objectives
 
